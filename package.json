@@ -9,7 +9,7 @@
     "dev": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Uday Bhaskhar",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
