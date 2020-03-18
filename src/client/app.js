@@ -1,5 +1,5 @@
 import React, { Suspense } from 'react';
-import { hot } from 'react-hot-loader/root'
+import { hot } from 'react-hot-loader/root';
 const Home = React.lazy(() => import('./components/home/home.component'));
 
 
