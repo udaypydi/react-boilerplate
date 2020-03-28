@@ -1,10 +1,7 @@
 import React, { Suspense } from 'react';
 import { hot } from 'react-hot-loader/root';
 
-// Lazy loading component with React Lazy
-
 const Home = React.lazy(() => import('./components/home/home.component'));
-
 
 // Suspense API used to render fallback before mounting component
 
