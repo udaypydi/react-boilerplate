@@ -66,7 +66,7 @@ module.exports = {
       new HtmlWebpackPlugin({
         filename: 'index.html',
         inject: true,
-        title: 'Demo App',
+        title: 'React Boilerplate',
       }),
       new HtmlWebpackRootPlugin(),
       new webpack.HotModuleReplacementPlugin(),

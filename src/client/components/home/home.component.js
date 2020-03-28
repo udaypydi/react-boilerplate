@@ -2,7 +2,7 @@ import React from 'react';
 
 function Home() {
   return (
-    <p>Home Component</p>
+    <p>Welcome to React Boilerplate</p>
   );
 }
 
