@@ -1,3 +1,3 @@
 <div align="center">
-React Boilerplate
+  <h1>React Boilerplate</h1>
 </div>
