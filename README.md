@@ -1,3 +1,5 @@
 <div align="center">
   <h1>React Boilerplate</h1>
 </div>
+
+A simple boilrplate for react beginners.
