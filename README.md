@@ -2,4 +2,4 @@
   <h1>React Boilerplate</h1>
 </div>
 
-A simple boilrplate for react beginners.
+A simple boilrplate for react beginners. Webpack from scratch. 
