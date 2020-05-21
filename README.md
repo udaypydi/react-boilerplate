@@ -4,4 +4,3 @@
 
 - A simple boilerplate for react beginners. 
 - Webpack from scratch.
-- 
