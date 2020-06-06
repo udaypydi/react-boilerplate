@@ -2712,11 +2712,6 @@ html-minifier-terser@^5.0.1:
     relateurl "^0.2.7"
     terser "^4.6.3"
 
-html-webpack-injector@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.yarnpkg.com/html-webpack-injector/-/html-webpack-injector-1.1.2.tgz#f9cb483718b8639d76ac94e6b6a1eff3226e0dc1"
-  integrity sha512-xTt5XCDK82qNwXIRD9RxRkmmGFrmXcPAEtfoxXIAQts4mhuw18Hn+bbt0RGYKQLIPtS9ozYqoKqQyOTyoP56eA==
-
 html-webpack-plugin@^4.0.4:
   version "4.0.4"
   resolved "https://registry.yarnpkg.com/html-webpack-plugin/-/html-webpack-plugin-4.0.4.tgz#90cdfb168094e93e047174d9baca098ec5540636"
@@ -5207,9 +5202,9 @@ websocket-driver@>=0.5.1:
     websocket-extensions ">=0.1.1"
 
 websocket-extensions@>=0.1.1:
-  version "0.1.3"
-  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.3.tgz#5d2ff22977003ec687a4b87073dfbbac146ccf29"
-  integrity sha512-nqHUnMXmBzT0w570r2JpJxfiSD1IzoI+HGVdd3aZ0yNi3ngvQ4jv1dtHt5VGxfI2yj5yqImPhOK4vmIh2xMbGg==
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/websocket-extensions/-/websocket-extensions-0.1.4.tgz#7f8473bc839dfd87608adb95d7eb075211578a42"
+  integrity sha512-OqedPIGOfsDlo31UNwYbCFMSaO9m9G/0faIHj5/dZFDMFqPTcx6UwqyOy3COEaEOg/9VsGIpdqn62W5KhoKSpg==
 
 which-module@^2.0.0:
   version "2.0.0"
